@@ -52,8 +52,8 @@ export function ChatPanel({
     },
     {
       heading: 'What are the top product quality issues reported?',
-      subheading: `What are the top product quality issues reported?`,
-      message: `What are the top product quality issues reported?`
+      subheading: `recent events about $DOGE?`,
+      message: `What are some recent events about $DOGE?`
     }
   ]
 

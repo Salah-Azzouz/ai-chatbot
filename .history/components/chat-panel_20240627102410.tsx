@@ -41,19 +41,19 @@ export function ChatPanel({
       message: `How many new loyal customers do I have this week?`
     },
     {
-      heading: 'How many customers did we lose this week?',
+      heading: 'How many customers did we lose this week?,
       subheading: 'How many customers did we lose this week?',
-      message: 'How many customers did we lose this week?'
+      message: 'What is the price of $DOGE right now?'
     },
     {
-      heading: 'Can you provide an overview of customer feedback this week?',
-      subheading: 'Can you provide an overview of customer feedback this week?',
-      message: `Can you provide an overview of customer feedback this week?`
+      heading: 'I would like to buy',
+      subheading: '42 $DOGE',
+      message: `I would like to buy 42 $DOGE`
     },
     {
-      heading: 'What are the top product quality issues reported?',
-      subheading: `What are the top product quality issues reported?`,
-      message: `What are the top product quality issues reported?`
+      heading: 'What are some',
+      subheading: `recent events about $DOGE?`,
+      message: `What are some recent events about $DOGE?`
     }
   ]
 

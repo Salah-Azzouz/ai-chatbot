@@ -47,13 +47,13 @@ export function ChatPanel({
     },
     {
       heading: 'Can you provide an overview of customer feedback this week?',
-      subheading: 'Can you provide an overview of customer feedback this week?',
-      message: `Can you provide an overview of customer feedback this week?`
+      subheading: '42 $DOGE',
+      message: `I would like to buy 42 $DOGE`
     },
     {
-      heading: 'What are the top product quality issues reported?',
-      subheading: `What are the top product quality issues reported?`,
-      message: `What are the top product quality issues reported?`
+      heading: 'What are some',
+      subheading: `recent events about $DOGE?`,
+      message: `What are some recent events about $DOGE?`
     }
   ]
 

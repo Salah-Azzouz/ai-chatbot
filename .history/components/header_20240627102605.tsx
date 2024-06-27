@@ -71,7 +71,7 @@ export function Header() {
           className={cn(buttonVariants())}
         >
           
-          <span className="hidden sm:block text-orange-600">Go to Bonat</span>
+          <span className="hidden sm:block">Go to Bonat</span>
           <span className="sm:hidden">Deploy</span>
         </a>
       </div>

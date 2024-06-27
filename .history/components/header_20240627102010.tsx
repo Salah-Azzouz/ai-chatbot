@@ -70,8 +70,8 @@ export function Header() {
           target="_blank"
           className={cn(buttonVariants())}
         >
-          
-          <span className="hidden sm:block text-orange-600">Go to Bonat</span>
+          <IconVercel className="mr-2" />
+          <span className="hidden sm:block">Deploy to Vercel</span>
           <span className="sm:hidden">Deploy</span>
         </a>
       </div>

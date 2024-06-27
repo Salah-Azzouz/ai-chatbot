@@ -12,7 +12,17 @@ export function EmptyScreen() {
           Welcome to Ai Super Agent
         </h1>
         <p className="leading-normal text-muted-foreground">
-          The Bonat AI Agent is an advanced, customizable AI-powered assistant designed to enhance customer loyalty and engagement for businesses across various industries. Leveraging real-time data and intelligent analytics, the Bonat AI Agent provides actionable insights, automates customer interactions, and helps businesses optimize their loyalty programs for maximum effectiveness.
+          This is an open source AI chatbot app template built with 
+Next.js
+, the 
+Vercel AI SDK
+, and 
+Vercel KV
+.
+
+It uses 
+React Server Components
+ to combine text with generative UI as output of the LLM. The UI state is synced through the SDK so the model is aware of your interactions as they happen.
         </p>
       </div>
     </div>

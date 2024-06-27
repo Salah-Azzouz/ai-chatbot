@@ -15,7 +15,7 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
       Built by Bonat Team for you {' '}
       <ExternalLink href="https://nextjs.org">Next.js</ExternalLink> and{' '}
       <ExternalLink href="https://github.com/vercel/ai">
-        2024
+        BONAT Corp
       </ExternalLink>
       .
     </p>
